@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|c:\\users\\vandai\\source\\repos\\webthithubanglai\\webthithubanglai\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|solutionrelative:webthithubanglai\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|c:\\users\\vandai\\source\\repos\\webthithubanglai\\webthithubanglai\\areas\\admin\\views\\shared\\_partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|solutionrelative:webthithubanglai\\areas\\admin\\views\\shared\\_partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|c:\\users\\vandai\\source\\repos\\webthithubanglai\\webthithubanglai\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|solutionrelative:webthithubanglai\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|c:\\users\\vandai\\source\\repos\\webthithubanglai\\webthithubanglai\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|solutionrelative:webthithubanglai\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|c:\\users\\vandai\\source\\repos\\webthithubanglai\\webthithubanglai\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|solutionrelative:webthithubanglai\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|c:\\users\\vandai\\source\\repos\\webthithubanglai\\webthithubanglai\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|solutionrelative:webthithubanglai\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|c:\\users\\vandai\\source\\repos\\webthithubanglai\\webthithubanglai\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EB9DFEB0-FDFA-4EDB-B28D-F2203991A189}|WebThiThuBangLai\\WebThiThuBangLai.csproj|solutionrelative:webthithubanglai\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_PartialSideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLai\\Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "RelativeToolTip": "WebThiThuBangLai\\Areas\\Admin\\Views\\Shared\\_PartialSideBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T15:03:36.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebThiThuBangLai\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebThiThuBangLai\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:40:22.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLai\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebThiThuBangLai\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T14:39:37.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLai\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebThiThuBangLai\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAgwLAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T14:38:35.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebThiThuBangLai\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebThiThuBangLai\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:38:18.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "WebThiThuBangLai\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "WebThiThuBangLai\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:37:20.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\Web.config",
+              "RelativeDocumentMoniker": "WebThiThuBangLai\\Web.config",
+              "ToolTip": "C:\\Users\\VanDai\\source\\repos\\WebThiThuBangLai\\WebThiThuBangLai\\Web.config",
+              "RelativeToolTip": "WebThiThuBangLai\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-15T14:35:14.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
