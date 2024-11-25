@@ -10669,7 +10669,7 @@ body,
 }
 
 .wrapper .content-wrapper {
-  min-height: calc(100vh - calc(3.5rem + 1px) - calc(3.5rem + 1px));
+    min-height: calc(100vh - calc(3.5rem + 1px) - calc(3.5rem + 1px));
 }
 
 .layout-boxed .wrapper {
@@ -10683,16 +10683,17 @@ body,
 }
 
 .layout-boxed .wrapper .main-sidebar {
-  left: inherit;
+    left: inherit;
 }
 
 @supports not (-webkit-touch-callout: none) {
-  .layout-fixed .wrapper .sidebar {
+.layout-fixed .wrapper .sidebar {
     height: calc(100vh - (3.5rem + 1px));
-  }
-  .layout-fixed.text-sm .wrapper .sidebar {
+}
+
+.layout-fixed.text-sm .wrapper .sidebar {
     height: calc(100vh - (2.93725rem + 1px));
-  }
+}
 }
 
 .layout-navbar-fixed.layout-fixed .wrapper .control-sidebar {
@@ -52247,4 +52248,136 @@ a.text-muted:hover {
 .dark-mode .border-dark {
   border-color: #4b545c !important;
 }
+
+/*Style for Admin Areas */
+/*If the css file doesnt applied, press ctrl + f5 to force refresh the css file*/
+
+
+.change-question {
+    padding: 30px;
+    padding-top:10px;
+}
+
+.change-question-card {
+    overflow: hidden;
+    padding: 20px;
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    display:flex;
+    flex-direction:column;
+}
+
+.card-title {
+    display: flex;
+    align-items:center;
+    gap:30px;
+    margin-bottom:30px;
+}
+.card-title h5 span {
+    color: #A200FF;
+}
+.datalist-test{
+    border-radius: 5px;
+    font: 12px;
+    width: 200px;
+    cursor:pointer;
+    border:1px solid #6c757d;
+}
+.list-test{
+    display:flex;
+    gap:15px;
+    align-items:center;
+}
+.list-test button {
+    border: none;
+    border-radius: 5px;
+    background: #A200FF;
+    width: 100px;
+}
+.list-test button:hover{
+   background-color:#1f2d3d;
+   color: aliceblue;
+}
+.create-test div {
+    overflow: hidden;
+    background: #C669FC;
+    padding: 20px;
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    display: flex;
+    margin: 30px;
+    margin-top: 0px;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+.create-test div:hover{
+    background-color:#1f2d3d;
+    color:aliceblue;
+}
+.create-test div h5{
+    align-content:center;
+}
+.create-test div img {
+    margin-left:auto;
+}
+
+.upload-document-section{
+    display:flex;
+    flex-direction:column;
+    border:2px solid #1f2d3d;
+    border-radius:10px;
+    margin:30px;
+    padding:20px;
+}
+.upload-document-section .setup-document{
+    display:flex;
+    align-items:center;
+    gap:20px;
+}
+.upload-document-section .upload-zone{
+    border:2px dotted #1f2d3d;
+    border-radius:10px;
+    padding:20px;
+    margin:20px;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items:center;
+
+}
+.upload-document-section .upload-zone h5{
+    font-style:italic;
+}
+.upload-document-section .upload-zone button{
+    border:none;
+    background:#c8a8e9;
+    border-radius:5px;
+    width:100px;
+    height:30px;
+    transition:background-color 0.3s ease;
+}
+.upload-document-section .upload-zone button:hover{
+    background-color:#c3c7f4;
+    color:white;
+}
+.management-section div {
+    padding: 20px;
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.3);
+    border-radius:10px;
+    margin-bottom:10px;
+    margin-left:10px;
+    margin-right:10px;
+    transition:background-color 0.3s ease;
+}
+.management-section:hover {
+    background-color: #1f2d3d;
+    color: aliceblue;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius:10px;
+}
+
 /*# sourceMappingURL=adminlte.css.map */

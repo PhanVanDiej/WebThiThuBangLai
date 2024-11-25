@@ -1,0 +1,106 @@
+﻿
+@{
+    ViewBag.Title = "ContentManagement";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@section navheader{
+    <ul class="navbar-nav">
+        <li class="nav-item">
+            <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a href="~/Content/clients/index3.html" class="nav-link">Home</a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a href="#" class="nav-link">Danh mục</a>
+        </li>
+    </ul>
+}
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1></h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active">Danh mục</li>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+<section class="change-question">
+    <div class="change-question-card">
+        <div class="card-title">
+            <h5 class="section-title">Chỉnh sửa câu hỏi <span>Thi thử bằng :</span></h5>
+            <input class="datalist-test" list="options" id="edit-setting-option" placeholder="Select or type..." />
+            <datalist id="options">
+                <option value="A1">
+                <option value="A2">
+            </datalist>
+        </div>
+        <div class="list-test">
+            <button class="option-test">
+                Đề 1
+            </button>
+            <button class="option-test">
+                Đề 2
+            </button>
+            <button class="option-test">
+                Đề 3
+            </button>
+            <button class="option-test">
+                Đề 4
+            </button>
+            <button class="option-test">
+                Đề 5
+            </button>
+            <button class="option-test">
+                Đề 6
+            </button>
+            <button class="option-test">
+                Đề 7
+            </button>
+            <button class="option-test">
+                Đề 8
+            </button>
+        </div>
+    </div>
+</section>
+<section class="create-test">
+    <div>
+        <h5>Tạo đề mới</h5>
+        <img src="~/Areas/Admin/Data/Icons/arrow1.png" />
+    </div>
+</section>
+<section class="upload-document-section">
+    <div class="setup-document">
+        <label>Tải tài liệu cho bài thi trắc nghiệm</label>
+        <input class="datalist-test" list="options" id="upload-setting-option" placeholder="Select or type..." />
+        <datalist id="options">
+            <option value="A1">
+            <option value="A2">
+        </datalist>
+    </div>
+    <div class="upload-zone">
+        <h5>Kéo thả file vào đây để tải lên</h5>
+        <button>Tải từ máy</button>
+    </div>
+</section>
+<section class="upload-document-section">
+    <div class="setup-document">
+        <label>Tải video thực hành thi thử bằng lái</label>
+        <input class="datalist-test" list="options" id="upload-setting-option" placeholder="Select or type..." />
+        <datalist id="options">
+            <option value="A1">
+            <option value="A2">
+        </datalist>
+    </div>
+    <div class="upload-zone">
+        <h5>Kéo thả file vào đây để tải lên</h5>
+        <button>Tải từ máy</button>
+    </div>
+</section>
+

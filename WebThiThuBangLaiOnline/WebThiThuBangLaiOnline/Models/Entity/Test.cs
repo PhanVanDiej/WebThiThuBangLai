@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
+using WebThiThuBangLaiOnline.Models.Entity;
 
-namespace WebThiThuBangLai.Models.Entities
+namespace WebThiThuBangLaiOnline.Models.Entity
 {
     [Table("tb_Test")]
     public class Test
@@ -13,7 +15,8 @@ namespace WebThiThuBangLai.Models.Entities
         {
             this.Questions = new HashSet<Question>();
         }
-        public string ID { get; set; }
+        [Key]
+        public string TestID { get; set; }
         public string Name { get; set; }
         public string Type { get; set; }
         public int NumOfQuestion { get; set; }
