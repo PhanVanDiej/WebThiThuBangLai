@@ -1,4 +1,4 @@
-﻿
+﻿@model IEnumerable<WebThiThuBangLaiOnline.Models.Entity.Test>
 @{
     ViewBag.Title = "ContentManagement";
     Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
@@ -42,35 +42,22 @@
             </datalist>
         </div>
         <div class="list-test">
-            <button class="option-test">
-                Đề 1
-            </button>
-            <button class="option-test">
-                Đề 2
-            </button>
-            <button class="option-test">
-                Đề 3
-            </button>
-            <button class="option-test">
-                Đề 4
-            </button>
-            <button class="option-test">
-                Đề 5
-            </button>
-            <button class="option-test">
-                Đề 6
-            </button>
-            <button class="option-test">
-                Đề 7
-            </button>
-            <button class="option-test">
-                Đề 8
-            </button>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var test in Model)
+                {
+                    <a href="/Admin/ContentManagement/EditTest/@test.TestID" class="btn btn-primary">@test.Name</a>
+                }
+            }
+            else
+            {
+                <p>Không có đề thi nào</p>
+            }
         </div>
     </div>
 </section>
 <section class="create-test">
-    <div>
+    <div onclick="window.location.href='@Url.Action("AddTest", "ContentManagement")'">
         <h5>Tạo đề mới</h5>
         <img src="~/Areas/Admin/Data/Icons/arrow1.png" />
     </div>

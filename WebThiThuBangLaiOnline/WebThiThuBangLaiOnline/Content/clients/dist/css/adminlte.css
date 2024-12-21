@@ -52379,5 +52379,9 @@ a.text-muted:hover {
     margin-right: 10px;
     border-radius:10px;
 }
+.card-primary{
+    margin:20px;
+}
+/*Style for menu management*/
 
 /*# sourceMappingURL=adminlte.css.map */

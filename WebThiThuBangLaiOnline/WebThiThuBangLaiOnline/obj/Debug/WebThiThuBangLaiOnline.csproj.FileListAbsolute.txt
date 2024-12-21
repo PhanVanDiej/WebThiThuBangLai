@@ -216,3 +216,14 @@ C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiT
 C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiTh.230B95A6.Up2Date
 C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.dll
 C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.pdb
+C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.Migrations.updateMenu.resources
+C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.Migrations.updateMenu1.resources
+C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.Migrations.UpdateDTB.resources
+C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.Migrations.updateMenu2.resources
+C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.Migrations.updateEntire.resources
+C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.Migrations.addAlias.resources
+C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.Migrations.updateMenuTitle.resources
+C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.Migrations.updateQuestion.resources
+C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.Migrations.updateRequiredOfQuestion.resources
+C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.Migrations.addRequiredQuestion.resources
+C:\Users\VanDai\Documents\Githup\WebThiThuBangLai\WebThiThuBangLaiOnline\WebThiThuBangLaiOnline\obj\Debug\WebThiThuBangLaiOnline.Migrations.removeOptionD.resources

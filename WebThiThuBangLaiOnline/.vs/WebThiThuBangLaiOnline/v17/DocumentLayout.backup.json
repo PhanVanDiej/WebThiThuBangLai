@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\webthithubanglaionline\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|c:\\users\\vandai\\documents\\githup\\webthithubanglai\\webthithubanglaionline\\webthithubanglaionline\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|c:\\users\\vandai\\documents\\githup\\webthithubanglai\\webthithubanglaionline\\webthithubanglaionline\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|c:\\users\\vandai\\documents\\githup\\webthithubanglai\\webthithubanglaionline\\webthithubanglaionline\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|c:\\users\\vandai\\documents\\githup\\webthithubanglai\\webthithubanglaionline\\webthithubanglaionline\\areas\\customer\\customerarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\customer\\customerarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\webthithubanglaionline\\areas\\admin\\views\\shared\\_questioncomponent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\admin\\views\\shared\\_questioncomponent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\webthithubanglaionline\\areas\\admin\\controllers\\contentmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\admin\\controllers\\contentmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\webthithubanglaionline\\content\\clients\\dist\\css\\addquestion.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\content\\clients\\dist\\css\\addquestion.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|c:\\users\\vandai\\documents\\githup\\webthithubanglai\\webthithubanglaionline\\webthithubanglaionline\\migrations\\202412210422319_removeoptiond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\migrations\\202412210422319_removeoptiond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\webthithubanglaionline\\areas\\admin\\views\\contentmanagement\\editquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\admin\\views\\contentmanagement\\editquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\webthithubanglaionline\\areas\\admin\\views\\contentmanagement\\addquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\admin\\views\\contentmanagement\\addquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\webthithubanglaionline\\models\\entity\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\models\\entity\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\webthithubanglaionline\\areas\\admin\\views\\usermanagement\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\admin\\views\\usermanagement\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\webthithubanglaionline\\areas\\admin\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\admin\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\webthithubanglaionline\\areas\\admin\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\admin\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\webthithubanglaionline\\areas\\admin\\views\\contentmanagement\\edittest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\admin\\views\\contentmanagement\\edittest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\webthithubanglaionline\\content\\clients\\dist\\css\\questioncomponent.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\content\\clients\\dist\\css\\questioncomponent.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T08:37:34.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:37:11.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T08:35:32.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\CustomerAreaRegistration.cs",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Customer\\CustomerAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\CustomerAreaRegistration.cs",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Customer\\CustomerAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:34:34.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202412210422319_removeOptionD.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Migrations\\202412210422319_removeOptionD.cs",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Migrations\\202412210422319_removeOptionD.cs",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Migrations\\202412210422319_removeOptionD.cs",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Migrations\\202412210422319_removeOptionD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:22:36.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\UserManagement\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\UserManagement\\AddUser.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\UserManagement\\AddUser.cshtml",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\UserManagement\\AddUser.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T16:24:28.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAAAHEBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:56:00.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContentManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Controllers\\ContentManagementController.cs",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Admin\\Controllers\\ContentManagementController.cs",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Controllers\\ContentManagementController.cs",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Admin\\Controllers\\ContentManagementController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwIEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:41:38.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditQuestion.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\ContentManagement\\EditQuestion.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\ContentManagement\\EditQuestion.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\ContentManagement\\EditQuestion.cshtml",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\ContentManagement\\EditQuestion.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T09:59:44.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_QuestionComponent.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\Shared\\_QuestionComponent.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\Shared\\_QuestionComponent.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\Shared\\_QuestionComponent.cshtml",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\Shared\\_QuestionComponent.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:52:07.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddQuestion.css",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Content\\clients\\dist\\css\\AddQuestion.css",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Content\\clients\\dist\\css\\AddQuestion.css",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Content\\clients\\dist\\css\\AddQuestion.css",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Content\\clients\\dist\\css\\AddQuestion.css",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-20T10:58:50.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Admin\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Admin\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:55:56.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddQuestion.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\ContentManagement\\AddQuestion.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\ContentManagement\\AddQuestion.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\ContentManagement\\AddQuestion.cshtml",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\ContentManagement\\AddQuestion.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T07:38:23.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Models\\Entity\\Question.cs",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Models\\Entity\\Question.cs",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Models\\Entity\\Question.cs",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Models\\Entity\\Question.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:26:31.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Admin\\Controllers\\UserManagementController.cs",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Controllers\\UserManagementController.cs",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Admin\\Controllers\\UserManagementController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:24:45.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditTest.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\ContentManagement\\EditTest.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\ContentManagement\\EditTest.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\ContentManagement\\EditTest.cshtml",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Admin\\Views\\ContentManagement\\EditTest.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:13:48.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuestionComponent.css",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Content\\clients\\dist\\css\\QuestionComponent.css",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Content\\clients\\dist\\css\\QuestionComponent.css",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Content\\clients\\dist\\css\\QuestionComponent.css",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Content\\clients\\dist\\css\\QuestionComponent.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-17T16:48:51.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

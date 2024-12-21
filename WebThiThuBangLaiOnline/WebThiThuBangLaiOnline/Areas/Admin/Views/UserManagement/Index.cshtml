@@ -1,4 +1,4 @@
-﻿
+﻿@model IEnumerable<WebThiThuBangLaiOnline.Models.Entity.User>
 @{
     ViewBag.Title = "UserManagement";
     Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
@@ -36,15 +36,76 @@
         <div class="card-header">
             <h3 class="card-title">Danh sách người dùng</h3>
             <div class="card-tools">
-                <a href="/usermanagement/add" class="btn btn-primary">Thêm mới</a>
+                <a href="/admin/usermanagement/adduser" class="btn btn-primary">Thêm mới</a>
             </div>
         </div>
         <div class="card-body">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Họ và tên</th>
+                        <th>Email</th>
+                        <th>Ngày sinh</th>
+                        <th>Tên đăng nhập</th>
+                        <th>Mật khẩu</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null && Model.Any())
+                    {
+                        foreach (var user in Model)
+                        {
+                            <tr id="trow_@user.ID">
+                                <td>@user.ID</td>
+                                <td>@user.Name</td>
+                                <td>@user.Email</td>
+                                <td>@user.Birthday.ToString("dd-MM-yyyy")</td>
+                                <td>@user.UserName</td>
+                                <td>@user.Password</td>
+                                <td>
+                                    <a href="/admin/usermanagement/edituser/@user.ID" class="btn btn-sm btn-primary">Sửa</a>
+                                    <a data-id="@user.ID" class="btn btn-sm btn-danger btnDelete">Xoá</a>
+                                </td>
+                            </tr>
+                        }
 
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="4">Không có bản ghi nào!</td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
         </div>
         <div class="card-footer">
 
         </div>
     </div>
 </section>
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $('body').on('click', '.btnDelete', function () {
+                var id = $(this).data("id");
+                var conf = confirm("Bạn có muốn xoá bản ghi này không?");
+                if (conf === true) {
+                    $.ajax({
+                        url: '/admin/usermanagement/deleteuser',
+                        type: 'POST',
+                        data: { id: id },
+                        success: function (rs) {
+                            if (rs.success) {
+                                $('#trow_' + id).remove();
+                            }
+                        }
+                    })
+                }
+            })
+        })
+    </script>
+}
 

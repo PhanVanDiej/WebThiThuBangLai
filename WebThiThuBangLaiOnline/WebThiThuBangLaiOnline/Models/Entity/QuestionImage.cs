@@ -14,5 +14,6 @@ namespace WebThiThuBangLaiOnline.Models.Entity
         public string ID { get; set; }
         public string QuestionID { get; set; }
         public string Image {  get; set; }
+        public string Alias { get; set; }
     }
 }

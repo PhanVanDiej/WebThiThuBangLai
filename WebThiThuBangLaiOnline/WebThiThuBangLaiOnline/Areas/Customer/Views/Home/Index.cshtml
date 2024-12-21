@@ -1,0 +1,58 @@
+﻿@model IEnumerable<WebThiThuBangLaiOnline.Models.Entity.Test>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Customer/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>
+    BỘ ĐỀ THI THỬ BẰNG LÁI XE MÁY <span style="color: #a200ff">A1</span>
+</h1>
+
+<!--========================Content============================================-->
+
+<div class="Struct">
+    <p>
+        Cấu trúc bộ đề thi sát hạch giấy phép lái xe hạng A1 sẽ bao
+        gồm&nbsp;25 câu hỏi, mỗi câu hỏi chỉ có&nbsp;duy nhất 1 đáp trả lời đúng.
+        Khác hẳn với bộ đề thi luật cũ là 2 đáp án. Mỗi đề thi chúng tôi
+        sẽ bố trí từ&nbsp;2 - 4 câu hỏi điểm liệt&nbsp;để học viên có thể làm quen
+        và ghi nhớ, tránh việc làm sai câu hỏi liệt.
+    </p>
+    <br>
+
+    <ul>
+        <li>Số lượng câu hỏi:&nbsp;25 Câu.</li>
+        <li>Yêu cầu làm đúng&nbsp;21/25 Câu</li>
+        <li>Thời gian:&nbsp;19 Phút</li>
+    </ul>
+
+    <br>
+    <br>
+    <p>
+        Tuyệt đối không được làm sai câu hỏi điểm liệt, vì trong kỳ thi
+        thật nếu học viên làm sai "Câu Điểm Liệt" đồng nghĩa với việc
+        "KHÔNG ĐẠT" dù cho các câu khác trả lời đúng!
+    </p>
+
+    <div class="container">
+        <a class="button" href="contest.html">Thi Thử Ngay</a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="btn BTN"><a href="#!">Đề 1</a></div>
+    @if(Model != null && Model.Any())
+    {
+        foreach(var test in Model)
+        {
+            <div class="BTN BTN"><a href="#">@test.Name</a></div>
+        }
+    }
+</div>
+
+<p class="mar">Tải ngay bộ đề 200 câu hỏi thi thử bằng A1</p>
+
+<a class="mar" href="#!" style="text-decoration: underline; color: blue">Trắc nghiệm 200 câu thi bằng lái A1 ( có đáp án ).pdf</a>
+
+

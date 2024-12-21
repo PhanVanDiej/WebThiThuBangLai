@@ -1,0 +1,51 @@
+﻿@model WebThiThuBangLaiOnline.Models.Entity.Question
+
+
+<div class="question-component" id="question-@Model.ID">
+    @if (Model != null)
+    {
+        <div class="question-header">
+            <div style="display:flex; gap:10px">
+                <label class="question-name">@Model.ID :</label>
+                @if ( Model.Type == 1)
+                {
+                   <div class="tag-type-question">
+                       <img src="~/Areas/Admin/Data/Icons/tag.png" alt="tag" />
+                       <p>Câu điểm liệt</p>
+                   </div>
+                }
+            </div>
+            <div class="function-btn-wrapper">
+                <a class="function-btn-edit" href=@Url.Action("EditQuestion", "ContentManagement", new {ID=Model.ID,testID=Model.TestID})>
+                    <img src="~/Areas/Admin/Data/Icons/pen.png" alt="EditBtn" />
+                    Chỉnh sửa
+                </a>
+                <button class="function-btn-delete" data-id="@Model.ID">
+                    <img src="~/Areas/Admin/Data/Icons/recycle_bin.png" alt="DeleteBtn" />
+                </button>
+            </div>
+        </div>
+        <div class="question-content">
+            <p class="question-detail">@Model.DetailQuestion</p>
+            <img src="" alt="" />
+            <div class="answer-options">z
+                <div>
+                    <p class="answer">A. @Model.OptionA</p>
+                    <p class="answer">B. @Model.OptionB</p>
+                    <p class="answer">C. @Model.OptionC</p>
+                </div>
+            </div>
+            <div class="explain-section">
+                <p><span style="font-weight:bold">Giải thích :</span>@Model.Explain</p>
+            </div>
+            @if ( !String.IsNullOrEmpty(Model.Image) ){
+                <div class="image-question">
+                    <label>Ảnh câu hỏi: </label>
+                    <img src="@Url.Content("~/Sources/ImageQuestion/" + Model.Image)" alt="Question Image" width="50" />
+                </div> 
+            }
+        </div>
+    }
+
+</div>
+

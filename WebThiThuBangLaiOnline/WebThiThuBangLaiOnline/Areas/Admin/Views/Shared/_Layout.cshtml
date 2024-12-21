@@ -30,6 +30,12 @@
     <link rel="stylesheet" href="~/Content/clients/dist/css/adminlte.min.css">
     <!-- Admin-Category style-->
     <link rel="stylesheet" href="~/Content/clients/dist/css/adminlte.css">
+    <!-- Question Component style-->
+    <link rel="stylesheet" href="~/Content/clients/dist/css/QuestionComponent.css">
+    <!-- Add Question style-->
+
+    <link rel="stylesheet" href="~/Content/clients/dist/css/AddQuestion.css">
+
 
 </head>
 <body class="hold-transition sidebar-mini">
@@ -216,9 +222,18 @@
     <!-- AdminLTE App -->
     <script src="~/Content/clients/dist/js/adminlte.min.js"></script>
     <!-- AdminLTE for demo purposes -->
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+
+
     @*<script src="~/Content/clients/dist/js/demo.js"></script>x*@
     <!-- Page specific script -->
-    <script>$(function () {
+    <script>
+        $(function () {
             //Initialize Select2 Elements
             $('.select2').select2()
 

@@ -11,9 +11,14 @@ namespace WebThiThuBangLaiOnline.Models.Entity
     public class Menu
     {
         [Key]
-        public int ID { get; set; }
+        [Required(ErrorMessage ="ID Menu không được để trống!")]
+        public int ID { get; set; }     
         [StringLength(500)]
+        [Required(ErrorMessage = "Tiêu đề Menu không được để trống!")]      
         public string Title { get; set; }
+
+        [Required(ErrorMessage = "Thứ tự Menu không được để trống!")]           
         public int Position { get; set; }
+        public string Alias { get; set; }
     }
 }

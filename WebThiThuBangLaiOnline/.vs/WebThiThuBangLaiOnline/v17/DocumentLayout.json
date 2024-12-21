@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|c:\\users\\vandai\\documents\\githup\\webthithubanglai\\webthithubanglaionline\\webthithubanglaionline\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|c:\\users\\vandai\\documents\\githup\\webthithubanglai\\webthithubanglaionline\\webthithubanglaionline\\content\\clients\\dist\\css\\customer\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\content\\clients\\dist\\css\\customer\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|c:\\users\\vandai\\documents\\githup\\webthithubanglai\\webthithubanglaionline\\webthithubanglaionline\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|c:\\users\\vandai\\documents\\githup\\webthithubanglai\\webthithubanglaionline\\webthithubanglaionline\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C457380-CF34-4FFB-AE51-A15A0C7912AA}|WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline.csproj|solutionrelative:webthithubanglaionline\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Content\\clients\\dist\\css\\Customer\\Home.css",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Content\\clients\\dist\\css\\Customer\\Home.css",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Content\\clients\\dist\\css\\Customer\\Home.css",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Content\\clients\\dist\\css\\Customer\\Home.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-21T08:44:15.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T08:37:34.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:37:11.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\VanDai\\Documents\\Githup\\WebThiThuBangLai\\WebThiThuBangLaiOnline\\WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebThiThuBangLaiOnline\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T08:35:32.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

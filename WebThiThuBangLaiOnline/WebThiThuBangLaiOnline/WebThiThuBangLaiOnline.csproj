@@ -174,6 +174,8 @@
     <Compile Include="Areas\Admin\Controllers\HomeController.cs" />
     <Compile Include="Areas\Admin\Controllers\MenuController.cs" />
     <Compile Include="Areas\Admin\Controllers\UserManagementController.cs" />
+    <Compile Include="Areas\Customer\Controllers\HomeController.cs" />
+    <Compile Include="Areas\Customer\CustomerAreaRegistration.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
@@ -184,8 +186,53 @@
     <Compile Include="Migrations\202411221642110_CreatedDTB.Designer.cs">
       <DependentUpon>202411221642110_CreatedDTB.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202411251612507_updateMenu.cs" />
+    <Compile Include="Migrations\202411251612507_updateMenu.Designer.cs">
+      <DependentUpon>202411251612507_updateMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202411260146581_updateMenu1.cs" />
+    <Compile Include="Migrations\202411260146581_updateMenu1.Designer.cs">
+      <DependentUpon>202411260146581_updateMenu1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202411281508252_UpdateDTB.cs" />
+    <Compile Include="Migrations\202411281508252_UpdateDTB.Designer.cs">
+      <DependentUpon>202411281508252_UpdateDTB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202412051519128_updateMenu2.cs" />
+    <Compile Include="Migrations\202412051519128_updateMenu2.Designer.cs">
+      <DependentUpon>202412051519128_updateMenu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202412051634402_updateEntire.cs" />
+    <Compile Include="Migrations\202412051634402_updateEntire.Designer.cs">
+      <DependentUpon>202412051634402_updateEntire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202412061600499_addAlias.cs" />
+    <Compile Include="Migrations\202412061600499_addAlias.Designer.cs">
+      <DependentUpon>202412061600499_addAlias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202412061616352_updateMenuTitle.cs" />
+    <Compile Include="Migrations\202412061616352_updateMenuTitle.Designer.cs">
+      <DependentUpon>202412061616352_updateMenuTitle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202412111001094_updateQuestion.cs" />
+    <Compile Include="Migrations\202412111001094_updateQuestion.Designer.cs">
+      <DependentUpon>202412111001094_updateQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202412181840502_updateRequiredOfQuestion.cs" />
+    <Compile Include="Migrations\202412181840502_updateRequiredOfQuestion.Designer.cs">
+      <DependentUpon>202412181840502_updateRequiredOfQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202412181858438_addRequiredQuestion.cs" />
+    <Compile Include="Migrations\202412181858438_addRequiredQuestion.Designer.cs">
+      <DependentUpon>202412181858438_addRequiredQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202412210422319_removeOptionD.cs" />
+    <Compile Include="Migrations\202412210422319_removeOptionD.Designer.cs">
+      <DependentUpon>202412210422319_removeOptionD.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Common\Filter.cs" />
     <Compile Include="Models\Entity\Menu.cs" />
     <Compile Include="Models\Entity\Question.cs" />
     <Compile Include="Models\Entity\QuestionImage.cs" />
@@ -198,6 +245,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\Admin\Data\Icons\arrow1.png" />
+    <Content Include="Areas\Admin\Data\Icons\imgDialog.png" />
+    <Content Include="Areas\Admin\Data\Icons\neonPlus.png" />
+    <Content Include="Areas\Admin\Data\Icons\pen.png" />
+    <Content Include="Areas\Admin\Data\Icons\plus.png" />
+    <Content Include="Areas\Admin\Data\Icons\recycle_bin.png" />
+    <Content Include="Areas\Admin\Data\Icons\tag.png" />
     <Content Include="Areas\Admin\Data\Images\bgImage.png" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
@@ -215,6 +268,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\clients\dist\css\AddQuestion.css" />
     <Content Include="Content\clients\dist\css\adminlte.css" />
     <Content Include="Content\clients\dist\css\adminlte.min.css" />
     <Content Include="Content\clients\dist\css\alt\adminlte.components.css" />
@@ -230,6 +284,8 @@
     <Content Include="Content\clients\dist\css\alt\adminlte.plugins.css" />
     <Content Include="Content\clients\dist\css\alt\adminlte.plugins.min.css" />
     <Content Include="Content\clients\dist\css\Category.css" />
+    <Content Include="Content\clients\dist\css\Customer\Home.css" />
+    <Content Include="Content\clients\dist\css\QuestionComponent.css" />
     <Content Include="Content\clients\dist\img\AdminLTELogo.png" />
     <Content Include="Content\clients\dist\img\avatar.png" />
     <Content Include="Content\clients\dist\img\avatar2.png" />
@@ -2205,6 +2261,18 @@
     <Content Include="Areas\Admin\Views\ContentManagement\Index.cshtml" />
     <Content Include="Areas\Admin\Views\UserManagement\Index.cshtml" />
     <Content Include="Areas\Admin\Views\Menu\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\Menu\AddMenu.cshtml" />
+    <Content Include="Areas\Admin\Views\UserManagement\AddUser.cshtml" />
+    <Content Include="Areas\Admin\Views\Menu\EditMenu.cshtml" />
+    <Content Include="Areas\Admin\Views\Shared\_QuestionComponent.cshtml" />
+    <Content Include="Areas\Admin\Views\ContentManagement\AddTest.cshtml" />
+    <Content Include="Areas\Admin\Views\ContentManagement\EditTest.cshtml" />
+    <Content Include="Areas\Admin\Views\ContentManagement\AddQuestion.cshtml" />
+    <Content Include="Areas\Admin\Views\ContentManagement\EditQuestion.cshtml" />
+    <Content Include="Areas\Admin\Views\UserManagement\EditUser.cshtml" />
+    <Content Include="Areas\Customer\Views\web.config" />
+    <Content Include="Areas\Customer\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\Customer\Views\Home\Index.cshtml" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
@@ -2253,6 +2321,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\Customer\Data\" />
+    <Folder Include="Sources\ImageQuestion\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
@@ -2284,6 +2354,39 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202411221642110_CreatedDTB.resx">
       <DependentUpon>202411221642110_CreatedDTB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202411251612507_updateMenu.resx">
+      <DependentUpon>202411251612507_updateMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202411260146581_updateMenu1.resx">
+      <DependentUpon>202411260146581_updateMenu1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202411281508252_UpdateDTB.resx">
+      <DependentUpon>202411281508252_UpdateDTB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202412051519128_updateMenu2.resx">
+      <DependentUpon>202412051519128_updateMenu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202412051634402_updateEntire.resx">
+      <DependentUpon>202412051634402_updateEntire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202412061600499_addAlias.resx">
+      <DependentUpon>202412061600499_addAlias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202412061616352_updateMenuTitle.resx">
+      <DependentUpon>202412061616352_updateMenuTitle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202412111001094_updateQuestion.resx">
+      <DependentUpon>202412111001094_updateQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202412181840502_updateRequiredOfQuestion.resx">
+      <DependentUpon>202412181840502_updateRequiredOfQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202412181858438_addRequiredQuestion.resx">
+      <DependentUpon>202412181858438_addRequiredQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202412210422319_removeOptionD.resx">
+      <DependentUpon>202412210422319_removeOptionD.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
